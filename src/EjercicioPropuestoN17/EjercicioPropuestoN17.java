@@ -6,7 +6,7 @@ public class EjercicioPropuestoN17 {
 		
 		double radio, area, longitud;
 		
-		radio = 15;
+		radio = 12;
 		area = Math.PI * Math.pow(radio, 2);
 		longitud = 2 * radio * Math.PI;
 		
